@@ -1,0 +1,6 @@
+{
+    "mode": "file",  
+    "hosts_file": "hosts.txt",  
+    "sleep_time": 5,
+    "timeout": 2
+}
