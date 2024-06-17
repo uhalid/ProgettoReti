@@ -31,7 +31,7 @@ Esempio di `config.json`:
 - Modificare config.json per impostare i parametri desiderati
 - Eseguire lo script con privilegi amministrativi:
 ```bash
-sudo python3 monitor.py
+sudo python3 main.py
 ```
 
 Lo script stamperà lo stato di ciascun host a intervalli regolari.
